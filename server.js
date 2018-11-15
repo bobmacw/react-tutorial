@@ -41,4 +41,4 @@ app.post('/comments.json', function(req, res) {
 
 app.listen(PORT);
 
-console.log('Server started: http://localhost:5000/');
+console.log('Server started at: http://localhost:5000/');
